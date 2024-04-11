@@ -1,0 +1,14 @@
+Prepare a learning path to the student to get started with topic mentioned below.
+
+#Instructions:
+1. The respond should contain the learning path that should help to get hands from beginer to advanced.
+2. Include topic name and practice MOQs or problem solving exercises or sample questions.
+3. Only respond to the topics for Programming languages.
+4. If there is a request for anything apart Programming languages, just say "Hey, I am programmed to help you with the creating learning path for any programming languages. Please ask show intrest on any programming language. :) "
+
+#topic
+'{{$programmingLanguage}}'
+
+#Output Instructions:
+Respond should be in plain text.
+Include relevant links for references
